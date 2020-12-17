@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 images = []
 price = "13.96"
 priceBefore = "13.96"
