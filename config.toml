@@ -37,19 +37,14 @@ paginate = 10
   weight = 1
 
   [[menu.main]]
-  name = "Blog"
-  URL = "blog"
-  weight = 2
-
-  [[menu.main]]
   name = "FAQ"
   URL = "faq"
-  weight = 3
+  weight = 2
 
   [[menu.main]]
   name = "Contact"
   URL = "contact"
-  weight = 4
+  weight = 3
 
   ############# footer menu #############
   [[menu.footer]]
@@ -58,24 +53,19 @@ paginate = 10
   weight = 1
 
   [[menu.footer]]
-  name = "Blog"
-  URL = "blog"
-  weight = 2
-
-  [[menu.footer]]
   name = "FAQ"
   URL = "faq"
-  weight = 3
+  weight = 2
 
   [[menu.footer]]
   name = "Terms & Conditions"
   URL = "terms-conditions"
-  weight = 4
+  weight = 3
 
   [[menu.footer]]
   name = "Contact"
   URL = "contact"
-  weight = 5
+  weight = 4
 
 
 #################### default parameters ################################
@@ -93,9 +83,9 @@ mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+mobile = "513 319 8737"
+email = "tetsusfavor@gmail.com"
+location = "Dayton, Ohio"
 # copyright
 copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
 # Snipcart Credentials
