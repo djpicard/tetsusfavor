@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://tetsusfavor.com/"
+baseURL = "https://djpicard.github.io/tetsusfavor/"
 languageCode = "en-us"
 title = "Tetsu's Favor"
 # theme = "hargo"
