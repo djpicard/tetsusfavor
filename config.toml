@@ -2,7 +2,7 @@
 baseURL = "http://tetsusfavor.com/"
 languageCode = "en-us"
 title = "Tetsu's Favor"
-theme = "hargo"
+# theme = "hargo"
 summaryLength = "20"
 paginate = 10
 
